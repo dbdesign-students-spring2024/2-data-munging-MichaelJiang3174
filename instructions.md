@@ -18,7 +18,9 @@ NASA's [GISS Surface Temperature Analysis web site](https://data.giss.nasa.gov/g
 - The numbers do not represent actual temperature readings, but rather represent temperature *anomalies*.
 - Their [FAQ page](https://data.giss.nasa.gov/gistemp/faq/#q101) includes some additional explanations that might be helpful.
 
-Download [the raw data in fixed-width column format](https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt).
+Download [the raw data in fixed-width column format](https://data.giss.nasa.gov/g
+
+istemp/tabledata_v4/GLB.Ts+dSST.txt).
 - save the raw data file into the directory named `data` in this repository.
 
 Take a look at the data in the file... 
